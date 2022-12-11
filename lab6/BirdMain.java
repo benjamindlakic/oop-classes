@@ -14,4 +14,5 @@ public class BirdMain {
                 case "quit" -> {break loop;}
             }
         }
+    }
 }
