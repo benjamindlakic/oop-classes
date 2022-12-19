@@ -1,6 +1,5 @@
 package lab7;
 
-import java.util.HashMap;
 
 public class ThreeElementsMonths {
     private char firstLetter;

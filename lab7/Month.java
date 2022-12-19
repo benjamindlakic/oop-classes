@@ -45,5 +45,4 @@ public class Month {
         if(this.monthNumber+1 <= 12) return new Month(this.monthNumber + 1);
         return new Month(1);
     }
-
 }
