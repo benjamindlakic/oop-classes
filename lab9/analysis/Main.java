@@ -10,6 +10,5 @@ public class Main {
         System.out.println("Lines: "+ analysis.lines());
         System.out.println("Characters: "+ analysis.characters());
     }
-    
 
 }
