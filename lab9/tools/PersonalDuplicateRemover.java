@@ -1,4 +1,4 @@
-package tools;
+package lab9.tools;
 
 import java.util.HashSet;
 import java.util.Set;
